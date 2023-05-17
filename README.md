@@ -5,7 +5,6 @@
 - BOOTSTRAP
 - HTML
 - CSS
-- PYTON
 - IREI POSTAR AQUI MEUS ESTUDOS BASICOS E AVANÇADOS.
 
 <div align="center">
