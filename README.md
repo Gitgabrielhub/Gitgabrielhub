@@ -6,6 +6,8 @@
 - HTML
 - CSS
 - IREI POSTAR AQUI MEUS ESTUDOS BASICOS E AVANÇADOS.
+- Typescript
+- Angular JS
 
 <div align="center">
   <a href="https://github.com/Gitgabrielhub">
